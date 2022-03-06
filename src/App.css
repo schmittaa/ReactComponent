@@ -1,0 +1,33 @@
+.App {
+  margin-left: 100px;
+  display: inline-flex;
+}
+
+img{
+  width: 250px;
+  height: 300px;
+  align-items: left;
+}
+
+.Address{
+  margin-top: 150px;
+  margin-left: 50px;
+  font-size:smaller;
+  font-family:sans-serif;
+  font-style: italic;
+  color: rgb(49, 91, 168);
+}
+.FullName{
+  margin-top: 100px;
+  margin-left: 50px;
+  font-size: medium;
+  font-family:sans-serif;
+  font-style: italic;
+  color: cornflowerblue;
+}
+.profilePhoto{
+  margin-top: 50px;
+  margin-left: 100px;
+  border-radius: 5px;
+}
+
